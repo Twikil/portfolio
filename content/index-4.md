@@ -9,7 +9,7 @@ seo:
 slogan: Trusted By Fortune 500 Companies
 ---
 
-# *Carl Hanson*
+# *Twikil Gollu*
 
 ## <Typewriter>Full-Stack Developer</Typewriter>
 

@@ -15,7 +15,7 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Twikil Gollu</Typewriter>
 
 # *Web Developer* <span>&</span> *Growth Consultant*
 
