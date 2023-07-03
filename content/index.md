@@ -27,14 +27,13 @@ sponge.
 
 
 ---achievements
-- number: 2+
+- number: 1
   text: Years of experience
-- number: 60+
+- number: 10
   text: Projects Completed
-- number: 12
+- number: 1
   text: OpenSource Libraries
-- number: 50+
-  text: Happy Customers
+- 
 ---
 
 
