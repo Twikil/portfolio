@@ -110,7 +110,7 @@ list:
 
 
 
----history[0]
+<!-- ---history[0]
 title: Employment
 list:
   - name: MetaVerse Inc.
@@ -122,7 +122,7 @@ list:
   - name: Crowdcube Inc.
     description: Technical Support
     date: 2018-2015
----
+--- -->
 
 
 
