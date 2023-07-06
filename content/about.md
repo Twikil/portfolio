@@ -129,13 +129,13 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: MP & EV ENGLISH MEDIUM SCHOOL
+    description: schooling
+    date: 2017-2018
+  - name: Narayana jr collage 
+    description: Higher secondry education MPC (mathematics,physics.chemistry)
+    date: 2018-2020
+  - name:  Amrita Vishwa Vidyapeetham (chennai)
+    description: Under graduate (CSE) (Computer Science Engineering)
+    date: 2020-present
 ---
