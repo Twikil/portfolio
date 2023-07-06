@@ -23,11 +23,11 @@ Use the form on this page or get in touch by other means.
 <Sep size="12" />
 
 <small>
-  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: (888) 777-6666
+  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: +918688091981
 
-  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@carl.io
+  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: twikilgollu123@gmail.com
 
-  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [CarlHanson](http://linkedin.com/vercel)
+  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [Twikil Gollu](https://www.linkedin.com/in/twikil-gollu-20327a1b9/)
 
-  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@CarlHanson](http://twitter.com/vercel)
+  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@_twikil_](https://twitter.com/_twikil_)
 </small>
