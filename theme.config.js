@@ -74,17 +74,17 @@ export const menu = [
 export const social = [
   {
     name: 'Twitter',
-    url: 'https://www.twitter.com/',
+    url: 'https://twitter.com/_twikil_',
     Icon: IoLogoTwitter,
   },
   {
     name: 'Instagram',
-    url: 'https://www.instagram.com/',
+    url: 'https://www.instagram.com/_twikil_/',
     Icon: IoLogoInstagram,
   },
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.linkedin.com/in/twikil-gollu-20327a1b9/',
     Icon: IoLogoLinkedin,
   },
 ]
