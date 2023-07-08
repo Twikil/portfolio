@@ -4,7 +4,7 @@
         <title>Twikil Personal Site</title>
         <link>http://localhost:3000</link>
         <description>A short look into Twikil's Developer Journey</description>
-        <lastBuildDate>Fri, 07 Jul 2023 17:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 11:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en_US</language>
@@ -20,7 +20,7 @@
             <guid>http://localhost:3000/projects/agency-website-development-for-dev-x</guid>
             <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot.]]></description>
-            <author>hello@example.com (Tikku)</author>
+            <author>twikilgollu123@gmail.com (Tikku)</author>
         </item>
         <item>
             <title><![CDATA[Application design for finance startup]]></title>
@@ -28,7 +28,7 @@
             <guid>http://localhost:3000/projects/application-design-for-finance-startup</guid>
             <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.]]></description>
-            <author>hello@example.com (Tikku)</author>
+            <author>twikilgollu123@gmail.com (Tikku)</author>
         </item>
         <item>
             <title><![CDATA[Brand refresh for saas cloud platform application]]></title>
@@ -36,7 +36,7 @@
             <guid>http://localhost:3000/projects/brand-refresh-for-technology-app</guid>
             <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.]]></description>
-            <author>hello@example.com (Tikku)</author>
+            <author>twikilgollu123@gmail.com (Tikku)</author>
         </item>
         <item>
             <title><![CDATA[Crypto website development for DeFi X]]></title>
@@ -44,7 +44,7 @@
             <guid>http://localhost:3000/projects/crypto-website-development-for-defi-x</guid>
             <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us.]]></description>
-            <author>hello@example.com (Tikku)</author>
+            <author>twikilgollu123@gmail.com (Tikku)</author>
         </item>
     </channel>
 </rss>
