@@ -138,7 +138,7 @@ export const siteMetaData = {
   defaultTitle: 'Twikil Personal Site',
   titleTemplate: 'Twikil Gollu | %s',
   description: "A short look into Twikil's Developer Journey",
-  email: 'hello@example.com',
+  email: 'twikilgollu123@gmail.com',
   locale: 'en_US',
   twitter: {
     handle: '@handle',
