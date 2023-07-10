@@ -15,15 +15,25 @@ images:
 ---
 ##### <span>01.</span> About me
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+I am pursuing BTech in Computer Science and Engineering at
+Amrita School Of Engineering, Chennai, Tamilnadu, India. I
+exhibit an adaptive character being flexible enough to work
+through challenging environments and is eager to learn new
+ideas and approaches.Enjoy working closely with team members 
+to ensure workloads are effectively redirected to bottleneck
+and personally picking up the slack when necessary.
 
 ##### <span>02.</span> Interests and Hobbies
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+My interests are in travelling to new places and worship to
+god.Spending time with family members and learning and get to
+know about new technologies and my hobbies are watching
+movies and playing badminton,valleyball and little bit of 
+problem solving coading.
 
-##### <span>03.</span> Framework Preferences
+<!-- ##### <span>03.</span> Framework Preferences
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse. -->
 
 
 
