@@ -31,10 +31,6 @@ know about new technologies and my hobbies are watching
 movies and playing badminton,valleyball and little bit of 
 problem solving coading.
 
-##### <span>03.</span> Framework Preferences
-
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
-
 
 
 ---cta
